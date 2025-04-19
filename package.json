@@ -1,4 +1,7 @@
 {
+  "name": "binary-search-trees",
+  "main": "src/index.js", 
+  "type": "module",  
   "devDependencies": {
     "@babel/core": "^7.26.9",
     "@babel/preset-env": "^7.26.9",
